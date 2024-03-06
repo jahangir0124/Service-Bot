@@ -10,7 +10,7 @@ from aiogram.fsm.context import FSMContext
 from aiogram.utils.keyboard import ReplyKeyboardBuilder
 from database import *
 from state import *
-TOKEN = "6521913587:AAEjScLqaCmB197NgdP3dnxFRHBhiXIBePU"
+TOKEN = "Token"
 router = Router()
 
 form_router = Router()
